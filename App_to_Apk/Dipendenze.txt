@@ -1,0 +1,10 @@
+DIPENDENZE NECESSARIE:
+
+-tensorflow
+-kivy
+-chess
+-scipy
+-numpy
+-opencv-python
+-cairosvg
+-keras
